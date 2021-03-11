@@ -143,4 +143,10 @@
     "api": "http://cj.bajiecaiji.com/inc/api.php",
     "download": ""
   }
+  {
+    "id": 44,
+    "name": "cms资源",
+    "api": "http://lnyzlfmp.hk3.345888.xyz/api.php/provide/vod/at/xml",
+    "download": ""
+  }
 ]
